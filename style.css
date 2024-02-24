@@ -1,0 +1,12 @@
+*{
+    font-size: medium;
+    color: blue;
+}
+
+#primero, #cuarto{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tercero{
+    color: red;
+}
